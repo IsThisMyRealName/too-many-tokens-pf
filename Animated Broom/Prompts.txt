@@ -1,0 +1,3 @@
+simple pathfinder artwork, a broom in the center of frame, in a stone hallway
+pathfinder artwork, a broom, hovering in stone hallway
+simple pathfinder color artwork, a broom in the center of frame, in a wooden hallway
