@@ -1,0 +1,2 @@
+patfinder color creature artwork, magma rat, cracks, covered in black smoke, firestorm
+patfinder color creature artwork, magma rat, cracks, in black smoke, fiery black landscape
