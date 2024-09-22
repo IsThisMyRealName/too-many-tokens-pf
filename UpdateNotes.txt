@@ -1,0 +1,4 @@
+1.0.0
+- Initial release!
+- If you know Too Many Tokens - DND you know the drill. Same macro, over 7600 AI generated Tokens for all creatures of level 5 or lower in the Monster Core 1.
+- All the tokens are also reachable via Too Many Tokens - Online via a new macro.
