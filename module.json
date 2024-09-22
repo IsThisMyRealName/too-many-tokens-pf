@@ -1,0 +1,36 @@
+{
+  "id": "too-many-tokens-pf",
+  "title": "Too Many Tokens - PF",
+  "version": "1.0.0",
+  "compatibility": {
+    "minimum": "10",
+    "verified": "12"
+  },
+  "description": "<p>\n\t<strong>TooManyTokens - PF</strong>\n\n</p><h3>If you are using Forge try Too Many Tokens - Online</h3>\n<p></p>\n<p>The TooManyTokens module for Foundry VTT features a collection of 7,677 tokens for monsters with a Level of 5 or lower from the Pathfinder 2e Monster Core Rulebook with a cumulative size of 363MB.</p>\n<p>\n\t<strong>Features:</strong>\n</p>\n<ul>\n\t<li>\n\t\t<p>\n\t\t\t<strong>Extensive Variety:</strong> Includes at least 20 unique token variations for nearly all monsters, with some categories containing up to 400 tokens, ensuring diverse options for goblin warriors, zombie shamblers, commoners, and more.</p>\n\t</li>\n\t<li>\n\t\t<p>\n\t\t\t<strong>Organized Structure:</strong> Tokens are sorted into subfolders, and named allowing for wildcard usage. For example, selecting \"Commoner/Commoner*\" will include tokens like CommonerHalfOrcFemaleArctic, CommonerElfMaleUrban, and CommonerTieflingMaleUrban.</p>\n\t</li>\n\t<li>\n\t\t<p>\n\t\t\t<strong>Wildcard Examples:</strong>\n\t\t</p>\n\t\t<ul>\n\t\t\t<li>To select female commoners: \"Commoner*Female*\"</li>\n\t\t\t<li>To choose urban-themed tiefling commoners: \"CommonerTiefling*Urban*\"</li>\n\t\t\t<li>To pick any commoner: \"Commoner*\"</li>\n\t\t</ul>\n\t</li>\n\t<li>\n\t\t<p>\n\t\t\t<strong>Prompts File:</strong> Every subfolder contains a prompts.txt file, offering insights into the prompts used to generate the tokens in that specific folder.</p>\n\t</li>\n\t<li>\n\t\t<p>\n\t\t\t<strong>Image Source:</strong> Tokens are created using the Bing Image Creator with DALL·E. Source images can be downloaded <a href=\"https://drive.google.com/drive/folders/1GApJRyeHzAGO-VyK2mESQzPWsqU9tw8R?usp=sharing\">here</a>.</p>\n\t</li>\n\t<li>\n\t\t<p>\n\t\t\t<strong>Stats:</strong> View an overview of how many tokens there are and how good they look <a href=\"https://toomanytokens.com/index.html?system=pf\">here</a>.</p>\n\t</li>\n\t<li>\n\t\t<p>\n\t\t\t<strong>Token Creation:</strong> Crafted using Token Stamp 2, ensuring high-quality and visually appealing tokens. Explore Token Stamp 2 <a href=\"https://rolladvantage.com/tokenstamp/\">here</a>.</p>\n\t</li>\n\t<li>\n\t\t<p>\n\t\t\t<strong>Image Size:</strong> All tokens maintain a standardized image size of 256x256 pixels to keep the loadtimes fast and filesize small.</p>\n\t</li>\n</ul>",
+  "authors": [
+    {
+      "name": "Jojop",
+      "discord": "jojop3000",
+      "flags": {}
+    }
+  ],
+  "scripts": [
+    "main.js"
+  ],
+  "packs": [
+    {
+      "label": "TooManyTokensPF Macros",
+      "type": "Macro",
+      "name": "toomanytokenspf-macros",
+      "path": "packs/toomanytokenspf-macros",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      },
+      "flags": {}
+    }
+  ],
+  "url": "https://github.com/IsThisMyRealName/too-many-tokens-pf",
+  "manifest": "https://raw.githubusercontent.com/IsThisMyRealName/too-many-tokens-pf/main/module.json",
+  "download": "https://github.com/IsThisMyRealName/too-many-tokens-pf/archive/refs/tags/latest.zip"
+}
