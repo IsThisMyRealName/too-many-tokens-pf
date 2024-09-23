@@ -1,3 +1,7 @@
+1.0.1
+- Renaming Packs folder to packs for Linux users
+- Fixed module.js, so it doesn't include a reference to main.js anymore
+
 1.0.0
 - Initial release!
 - If you know Too Many Tokens - DND you know the drill. Same macro, over 7600 AI generated Tokens for all creatures of level 5 or lower in the Monster Core 1.
