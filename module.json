@@ -14,9 +14,6 @@
       "flags": {}
     }
   ],
-  "scripts": [
-    "main.js"
-  ],
   "packs": [
     {
       "label": "TooManyTokensPF Macros",
