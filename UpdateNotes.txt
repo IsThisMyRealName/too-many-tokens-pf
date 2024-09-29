@@ -1,3 +1,8 @@
+1.0.2
+- Removed some wrong images for xulgaths
+- Added macro outside of compendiums
+- Removed spammy notifications
+
 1.0.1
 - Renaming Packs folder to packs for Linux users
 - Fixed module.js, so it doesn't include a reference to main.js anymore
